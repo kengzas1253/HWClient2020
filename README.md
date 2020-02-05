@@ -1,5 +1,7 @@
 # HWClient2020
-242-311 Client Server
+242-311 Client Server <br/>
+2420311 DISTRIBUTED COMPUTING AND WEB TECHNOLOGIES
+
 # Download Lab Sheet
 https://x.coe.phuket.psu.ac.th/warodom/240-311/lab/ <br/>
 Link Homework Lab3<br/>
