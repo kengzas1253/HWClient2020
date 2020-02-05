@@ -8,5 +8,5 @@ https://review-d3cc9.firebaseapp.com/?fbclid=IwAR1UQ4TSCXHOyqm2NE9e7gPjDX23jK7Xd
 use command<br/>
 1. cd lab 4 Intro React JS
 2. npm i
-command set Parth in Lab 1402A
+<br/>command set Parth in Lab 1402A
 SET PATH=%PATH%;C:\Users\coc\AppData\Roaming\npm
