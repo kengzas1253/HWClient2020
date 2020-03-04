@@ -1,0 +1,41 @@
+<html>
+
+<head>
+    <title>login</title>
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <style>
+        body {
+            background-color: rgb(219, 221, 191);
+        }
+
+        h1 {
+            color: rgb(155, 130, 20);
+        }
+           
+    </style>
+</head>
+
+<body>
+    <div class="container pt-3">
+        <h1> Please <%= foo %> </h1>
+        <form action="/admin" method="post">
+            <div class="form-group">
+                <input type="email" class="form-control" name="email" placeholder="Type your email" /><br />
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-control" name="password" placeholder="Type your passworld" /><br />
+            </div>
+            <button type="submit" class="btn btn-primary">submit</button>
+        </form>
+    </div>
+
+
+
+</body>
+
+</html>
