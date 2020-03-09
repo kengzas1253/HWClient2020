@@ -12,5 +12,5 @@ use command<br/>
 2.cd lab 4 Intro React JS<br/>
 3.npm i (Download node_modules)<br/>
 4.npm start
-<br/>command set Parth in Lab 1402A<br/>
+<br/>command set Path in Lab 1402A<br/>
 SET PATH=%PATH%;C:\Users\coc\AppData\Roaming\npm
